@@ -5,15 +5,7 @@ bio: "Hailing from the great plains of that continent. Hugo Macrox is an analyst
 avatar: "/images/ff.jpeg"
 featured: true
 social:
-- title: unsplash
-  url: https://unsplash.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
+- title: Twitter
+  url: ''
 
 ---
