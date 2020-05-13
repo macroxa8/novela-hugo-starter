@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Sharp Insight
+  heading: ''
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
